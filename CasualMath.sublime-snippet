@@ -21,6 +21,15 @@
 \newtheorem{question}{Question} 
 \theoremstyle{definition}
 \newtheorem{definition}{Definition}
+\newtheorem*{remark}{Remark}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+\urlstyle{same}
 ]]></content>
 
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
