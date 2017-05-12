@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+\newcommand{\iid}{\overset{iid}{\sim}}
+\newcommand{\aeq}{&=}
+\newcommand{\pN}[2]{\mathcal{N}(#1, #2^2)}
+\newcommand{\E}[1]{\mathrm{E}(#1)}
+\newcommand{\Var}[1]{\mathrm{Var}(#1)}
+\newcommand{\Cov}[1]{\mathrm{Cov}(#1)}
+\newcommand{\P}[1]{\mathbb{P}(#1)}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>statscmd</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.tex.latex</scope>
+</snippet>

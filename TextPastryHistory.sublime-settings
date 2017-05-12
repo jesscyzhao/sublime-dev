@@ -1,0 +1,31 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"operator": null,
+					"pattern": "print "
+				},
+				"command": "text_pastry_modify_selection",
+				"text": "filter print "
+			},
+			"key": "d65a2bfae27c837240cbc4c1bbaf2507",
+			"label": "filter print "
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"context": "selection",
+			"operator": null,
+			"pattern": "print "
+		},
+		"command": "text_pastry_modify_selection",
+		"text": "filter print "
+	}
+}
